@@ -1,0 +1,14 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+Dear employees,<br/>
+You may put HTML/text content here.
+<br/>
+<br/>
+Regards,<br/>
+$sender
+
+</body>
+</html>
